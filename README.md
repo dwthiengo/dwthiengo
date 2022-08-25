@@ -8,9 +8,11 @@ Sou apaixonado por estudar, aprender novos idiomas e conhecer novas culturas. Se
 
 
 
-<img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=dwthiengo"/>
+<img height="180cm" scr="(https://github-readme-stats.vercel.app/api?username=dwthiengo&show_icons=true&theme=radical)"/>
+<img height="180cm" scr="(https://github-readme-stats.vercel.app/api/top-langs/?username=dwthiengo&layout=radical)"/>
 
 <a href="https://instagram.com/davithiengo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/davi-thiengo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
