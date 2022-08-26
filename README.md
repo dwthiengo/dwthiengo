@@ -17,7 +17,7 @@ Sou apaixonado por estudar, aprender novos idiomas e conhecer novas culturas. Se
 <a href="https://instagram.com/davithiengo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/davi-thiengo-9439321b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[Snake animation](https://github.com/dwthiengo/dwthiengo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dwthiengo/dwthiengo/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
