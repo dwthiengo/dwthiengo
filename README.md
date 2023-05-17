@@ -7,9 +7,10 @@ Estou no processo para me tornar um desevolvedor através do curso de formação
 Sou apaixonado por estudar, aprender novos idiomas e conhecer novas culturas. Sempre em busca de melhorar como indivíduo e como profissional. Gosto de criar novas perguntas e de ser resposta para perguntas anteriores.
 
 
-<div>
-<a href="https://github.com/dwthiengo">
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=dwthiengo)](https://github.com/dwthiengo/github-readme-stats)https://github-readme-stats.vercel.app/api/top-langs/?username=dwthiengo&layout=compact&langs_count=7&theme=cobalt"/><img height="180em" width="50%" src="![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwthiengo&show_icons=true&theme=radical)&include_all_commits"/>
+<div align="center"> 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwthiengo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 </div>
   
  </br>
