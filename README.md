@@ -9,7 +9,7 @@ Sou apaixonado por estudar, aprender novos idiomas e conhecer novas culturas. Se
 
 <div>
 <a href="https://github.com/dwthiengo">
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwthiengo&layout=compact&langs_count=7&theme=cobalt"/><img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=dwthiengo&show_icons=true&theme=cobalt&include_all_commits"/>
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=dwthiengo)](https://github.com/dwthiengo/github-readme-stats)https://github-readme-stats.vercel.app/api/top-langs/?username=dwthiengo&layout=compact&langs_count=7&theme=cobalt"/><img height="180em" width="50%" src="![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwthiengo&show_icons=true&theme=radical)&include_all_commits"/>
 </div>
   
  </br>
