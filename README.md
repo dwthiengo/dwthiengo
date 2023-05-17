@@ -6,13 +6,14 @@ Estou no processo para me tornar um desevolvedor através do curso de formação
 
 Sou apaixonado por estudar, aprender novos idiomas e conhecer novas culturas. Sempre em busca de melhorar como indivíduo e como profissional. Gosto de criar novas perguntas e de ser resposta para perguntas anteriores.
 
-
 <div align="center"> 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwthiengo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwthiengo&layout=pie&theme=cobalt" alt="Davi's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=250 src="https://github-readme-stats.vercel.app/api?username=dwthiengo&show_icons=true&theme=cobalt" alt="Davi's Github stats" />
 </a>
 </div>
-  
  </br>
 <div align="center">
 <h4>Languages and libraries:</h4>
