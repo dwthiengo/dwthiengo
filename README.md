@@ -2,7 +2,7 @@ Hey, there! 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMar
 
 Sou Davi Thiengo. Sou Natural do Rio de Janeiro e atualmente moro em Toledo.
 
-Estou no processo para me tornar um desevolvedor através do curso de formação para programadores do Connect (Biopark). Atualmente, tenho conhecimentos básicos sobre C, Python, Java, MySQL, HTML, CSS e JavaScript. Quero cada dia mais melhorar minhas habilidades aprendendo novas linguagens e tecnologias ao passo que me desenvolvo.
+Sou bacharel em Administração e graduando em Ciência de Dados. Estou em busca de me desenvolver e me especializar cada vez mais no mundo da tecnologia. Atualmente, tenho conhecimentos básicos sobre C, Python, Java, MySQL, HTML, CSS e JavaScript. Quero cada dia mais melhorar minhas habilidades aprendendo novas linguagens e tecnologias ao passo que me aprofundo no mundo da programação. 
 
 Sou apaixonado por estudar, aprender novos idiomas e conhecer novas culturas. Sempre em busca de melhorar como indivíduo e como profissional. Gosto de criar novas perguntas e de ser resposta para perguntas anteriores.
 
